@@ -2,8 +2,7 @@
 I do block game software.
 
 My main public project as of now has been fantabos-co, a ForgeHax continuation for 1.12.2 servers.
-<div class="github-card" data-github="fantabos-co/fantabos.co" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+[![fantabos.co](https://github-readme-stats.vercel.app/api/pin/?username=fantabos-co&repo=fantabos.co)](https://github.com/fantabos-co/fantabos.co)
 
 I worked on a proxy and helped on small projects.
 
